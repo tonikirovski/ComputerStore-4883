@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ComputerStore",
+    "\\ComputerStore\\bin",
+    "\\ComputerStore\\bin\\Debug",
+    "\\ComputerStore\\bin\\Release",
+    "\\ComputerStore\\Controllers",
+    "\\ComputerStore\\Data",
+    "\\ComputerStore\\Models",
+    "\\ComputerStore\\Properties"
+  ],
+  "PreviewInSolutionExplorer": false
+}
